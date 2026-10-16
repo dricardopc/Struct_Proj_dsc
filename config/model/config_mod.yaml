@@ -1,0 +1,15 @@
+escenario1:
+   pkl_path:
+      '/home/models'
+   variables_fin:
+      - v1
+      - v2
+      - v3
+      
+      - vk
+   hyperparameters:
+       - hp1
+       - hp2
+       - hp3
+       
+       - hpk

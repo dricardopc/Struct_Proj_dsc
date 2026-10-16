@@ -1,0 +1,13 @@
+server :
+   user_name: 'USRDATALAB'
+   pass:''12345'
+   dns_path:'scan-dwo'
+   
+ data_path:
+     raw:'raw////'
+     procesed:'procesed//'
+     final:'final///'
+     
+  constantes:
+     tipo_doc={'DNI':0,'RUC':2,'PASAPORTE': 1}
+ 
