@@ -1,0 +1,11 @@
+settings:
+  ruta_raiz: f:\06 proyectos git\Struct_Proj_dsc
+  ruta_data_pro: f:\06 proyectos git\Struct_Proj_dsc\Data\procesed
+  ruta_data_final: f:\06 proyectos git\Struct_Proj_dsc\Data\Final
+  ruta_data_raw: f:\06 proyectos git\Struct_Proj_dsc\Data\raw
+  ruta_src: f:\06 proyectos git\Struct_Proj_dsc\src
+  ruta_models: f:\06 proyectos git\Struct_Proj_dsc\models
+  user: USRLAB
+  pass: Sm5G$
+  features:
+  - lista variables
